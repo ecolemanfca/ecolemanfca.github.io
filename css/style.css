@@ -1,0 +1,142 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+@import url('https://fonts.googleapis.com/css?family=Rochester');
+@import url('https://fonts.googleapis.com/css?family=Merienda+One');
+@import url('https://fonts.googleapis.com/css?family=Crete+Round');
+
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+
+================================================================== */
+
+body.container-fluid {
+    background: white;
+    color: black;
+    height: 100%;
+    margin:0px;
+}
+
+.logo {
+    width: 25%;
+    margin: 20px auto;
+    display: block;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width:98%;
+    padding: 20px;}
+
+
+
+
+.catchy-phrase{color:#25ccbf;
+               font-size:35px;
+               font-family:'Rochester', cursive;}
+
+
+ul{list-style-type:none;
+    margin:0;
+    
+}
+
+li a{display:inline-block
+
+}
+
+
+
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+================================================================== */
+
+
+
+.lorem-ipsum {
+    font-weight:bolder;
+    
+    font-family: calibri;
+}
+
+
+#the-blogs {
+    margin: auto;
+    width: 80%;
+    background: white;
+    text-align: justify;
+}
+
+.ind-blogs {
+    margin:auto;
+    width: 100%;
+    background: white;
+    text-align: justify;
+    padding-bottom: 100px; 
+}
+
+
+
+.blog-title {
+    color: #25ccbf;
+    font-size: 35px;
+    font-family:'Rochester', cursive;
+    background: rgb(237, 221, 199);
+}
+
+
+
+
+
+
+
+
+/*-- CSS FOR MENU -----*/
+
+.menu-description, .menu-items{
+    font-family: 'Merienda One', cursive;
+    list-style: disc;
+}
+
+
+
+.link-to-somewhere{
+    font-family:'Crete Round', serif;
+}
+
+/*-- CSS FOR ABOUT-US---*/
+
+.abt-blogs{
+    margin:auto;
+    width: 100%;
+    background: white;
+    text-align: justify;
+    padding-bottom: 100px;
+}
+
+
+
+
+
+.info-title {
+    color: #25ccbf;
+    font-size:35px;
+    font-family:'Rochester', cursive;
+    background: black;
+}
+
+
+
+
+
+
+
+
+/*-- Keep all your "styling and designs" organized with comments! --*/
+
