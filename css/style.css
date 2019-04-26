@@ -24,13 +24,7 @@ body.container-fluid {
     display: block;
 }
 
-footer {
-    background-color: black;
-    color: white;
-    position: relative;
-    bottom: 0;
-    width:98%;
-    padding: 20px;}
+
 
 
 
@@ -136,6 +130,37 @@ CSS FOR BLOGS
 .menu-img{
     float:right;
 }
+
+
+
+
+/*-- footer -----*/
+
+form input, form textarea {
+    display: block;
+    margin: 0px 0px 10px 0px;}
+
+
+
+footer {
+    background-color:rgb(237, 221, 199);
+    color: black;
+    position: relative;
+    bottom: 0;
+    width:98%;
+    padding: 20px;}
+
+
+.contact-us{
+    color: #25ccbf;
+    font-family: 'Rochester', cursive;
+    font-size: 35px;
+}
+
+
+
+/*---  -----*/
+
 
 
 
