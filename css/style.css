@@ -70,18 +70,20 @@ CSS FOR BLOGS
 .ind-blogs {
     margin:auto;
     width: 100%;
-    background: white;
+    background:#25ccbf ;
     text-align: justify;
-    padding-bottom: 100px; 
+    margin-bottom: 100px ;
+    padding: 20px;
 }
 
 
 
 .blog-title {
-    color: #25ccbf;
+    color: white;
     font-size: 35px;
     font-family:'Rochester', cursive;
-    background: rgb(237, 221, 199);
+    background:rgb(237, 221, 199);
+    text-shadow: 0px 1px 7px black;
 }
 
 
@@ -137,8 +139,9 @@ CSS FOR BLOGS
 /*-- footer -----*/
 
 form input, form textarea {
-    display: block;
-    margin: 0px 0px 10px 0px;}
+    display: inline-block;
+    margin: 0px 0px 10px 0px;
+}
 
 
 
@@ -148,7 +151,10 @@ footer {
     position: relative;
     bottom: 0;
     width:98%;
-    padding: 20px;}
+    padding: 20px;
+    margin: 0 auto;
+    display: block;
+}
 
 
 .contact-us{
@@ -159,10 +165,17 @@ footer {
 
 
 
-/*---  -----*/
+/*--- landing -----*/
+.background-pic{
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
 
-
-
+footer p ,.footer-social{
+    display: inline;
+    
+}
 
 
 /*-- Keep all your "styling and designs" organized with comments! --*/
