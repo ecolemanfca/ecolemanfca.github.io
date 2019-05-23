@@ -66,10 +66,7 @@ CSS FOR LANDING
 
 
 
-footer p ,.footer-social{
-    display: inline;
-    
-}
+
 
 
 
@@ -263,6 +260,10 @@ footer {
 }
 
 
+footer p ,.footer-social{
+    display: inline;
+    
+}
 
 /*-- Keep all your "styling and designs" organized with comments! --*/
 
